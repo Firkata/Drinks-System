@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product xsi:type="Drinks">
+    <Name>Espresso</Name>
+    <Price>1.20</Price>
+    <Currency>lv.</Currency>
+    <ExtrasList />
+  </Product>
+  <Product xsi:type="Drinks">
+    <Name>Decaff</Name>
+    <Price>1.50</Price>
+    <Currency>lv.</Currency>
+    <ExtrasList />
+  </Product>
+  <Product xsi:type="Drinks">
+    <Name>Cappuccino</Name>
+    <Price>1.90</Price>
+    <Currency>lv.</Currency>
+    <ExtrasList />
+  </Product>
+  <Product xsi:type="Drinks">
+    <Name>Hot Chocolate</Name>
+    <Price>2.20</Price>
+    <Currency>lv.</Currency>
+    <ExtrasList />
+  </Product>
+  <Product xsi:type="Extras">
+    <Name>Sugar</Name>
+    <Price>0.10</Price>
+    <Currency>lv.</Currency>
+    <IsExtraOfDrink>false</IsExtraOfDrink>
+  </Product>
+  <Product xsi:type="Extras">
+    <Name>Cinnamon</Name>
+    <Price>0.20</Price>
+    <Currency>lv.</Currency>
+    <IsExtraOfDrink>false</IsExtraOfDrink>
+  </Product>
+  <Product xsi:type="Extras">
+    <Name>Milk</Name>
+    <Price>0.30</Price>
+    <Currency>lv.</Currency>
+    <IsExtraOfDrink>false</IsExtraOfDrink>
+  </Product>
+  <Product xsi:type="Extras">
+    <Name>Cream</Name>
+    <Price>0.40</Price>
+    <Currency>lv.</Currency>
+    <IsExtraOfDrink>false</IsExtraOfDrink>
+  </Product>
+  <Product xsi:type="Drinks">
+    <Name>Виви тест</Name>
+    <Price>0</Price>
+    <Currency>lv.</Currency>
+    <ExtrasList />
+  </Product>
+  <Product xsi:type="Drinks">
+    <Name>lubo test</Name>
+    <Price>43</Price>
+    <Currency>lv.</Currency>
+    <ExtrasList />
+  </Product>
+  <Product xsi:type="Drinks">
+    <Name>dfdd</Name>
+    <Price>44</Price>
+    <Currency>lv.</Currency>
+    <ExtrasList />
+  </Product>
+  <Product xsi:type="Drinks">
+    <Name>dfdd</Name>
+    <Price>44</Price>
+    <Currency>lv.</Currency>
+    <ExtrasList />
+  </Product>
+  <Product xsi:type="Drinks">
+    <Name>dfdd</Name>
+    <Price>44</Price>
+    <Currency>lv.</Currency>
+    <ExtrasList />
+  </Product>
+  <Product xsi:type="Drinks">
+    <Name>uiyui</Name>
+    <Price>77</Price>
+    <Currency>lv.</Currency>
+    <ExtrasList />
+  </Product>
+  <Product xsi:type="Drinks">
+    <Name>uiyui</Name>
+    <Price>77</Price>
+    <Currency>lv.</Currency>
+    <ExtrasList />
+  </Product>
+  <Product xsi:type="Drinks">
+    <Name>uiyui</Name>
+    <Price>77</Price>
+    <Currency>lv.</Currency>
+    <ExtrasList />
+  </Product>
+  <Product xsi:type="Extras">
+    <Name>erfrfr</Name>
+    <Price>0</Price>
+    <Currency>lv</Currency>
+    <IsExtraOfDrink>false</IsExtraOfDrink>
+  </Product>
+  <Product xsi:type="Extras">
+    <Name>erfrfr</Name>
+    <Price>0</Price>
+    <Currency>lv</Currency>
+    <IsExtraOfDrink>false</IsExtraOfDrink>
+  </Product>
+  <Product xsi:type="Drinks">
+    <Name>hj</Name>
+    <Price>66</Price>
+    <Currency>lv.</Currency>
+    <ExtrasList />
+  </Product>
+</ArrayOfProduct>
